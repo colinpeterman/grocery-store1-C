@@ -1,0 +1,14 @@
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY.
+THIS IS THE README FILE FOR LAB 4.
+
+1. Colin Peterman
+2. Total amount of time: 12 hours
+3. Short description of any concerns, interesting problems or discoveries encountered, or comments in general about the contents of the lab.
+	Only concerns are the parts I was unable to finish. I have had multiple exams the last couple weeks and coming up so trying to balance
+	the lab and studying the exams worth a lot of my grade was difficult. I managed to get a huge portion of the lab4 done, but got stuck at
+	some points so I was unable to finish it completely.
+4. Describe, with 4-5 sentences, how you used gdb to find a bug in your program while debugging it.
+	I had a couple issues with pointers where my code was not working correctly but not throwing any errors when compiling it. I knew the only way 
+	I was going to figure it out was by running gdb, and seeing if it printed anything out to help me. I ran the gdb with the input and output files
+	as well as creating a break point in the main to step through and see what was happeneing. Once I got through my code a little it through the error
+	and told me where I had messed up and I was able to correct this and get my code working again.
